@@ -5,7 +5,7 @@
 
 This project contains an exploratory data analysis (EDA) of the Titanic dataset.
 
-## Files
+## zip Files
 - **Titanic_EDA_Notebook.ipynb** → Jupyter Notebook with full code and analysis.
 - **Titanic_EDA_Report.pdf** → PDF summary with charts and insights.
 - **train.csv** → Dataset used for analysis.
